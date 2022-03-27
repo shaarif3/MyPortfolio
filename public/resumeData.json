@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Shaarif Shahid",
+    "occupation": "CTO of BRISKTECH",
+    "description": "I'm a full-stack web developer",
+    "image": "profilepic.jpg",
+    "bio": "Hi! I am a Full Stack developer with 1.5+ yrs of experience in Web and Mobile application development. I am a keen observer and have a passion to put my best efforts into innovation and creativity. I have worked with many startups and companies. My focus in a work is always writing clean, testable, and easy-to-understand code. I always try to build long-term relationships with my clients and deliver quality work. I always use the latest stack to create applications using best practices, test-driven approaches.",
+    "contactmessage": "Get in touch with me.",
+    "email": "shaarifshahid@gmail.com",
+    "phone": "+92 3323087540",
+    "address": {
+      "street": "Main Rashid Minhas Road",
+      "city": "Pakistan",
+      "state": "Sindh",
+      "zip": "75290"
+    },
+
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/shaarif.shahid.1/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/muhammad-shaarif-shahid-4991b7192",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_shaarifshahid/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shaarif3",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of Karachi - Karachi, Pakistan",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "Jan 2021"
+      }
+    ],
+    "work": [
+      {
+        "company": "BRISKTECH",
+        "title": "CTO",
+        "years": "May 2019 - Present"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "NextJs",
+        "level": "85%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "GitHub",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MusicFX.io",
+        "category": "",
+        "image": "musicfxx.png",
+        "url": "https://musicfx.io/"
+      },
+      {
+        "title": "Admirals",
+        "category": "",
+        "image": "admirals.png",
+        "url": "https://www.aadmirals.com/"
+      },
+      {
+        "title": "ZypFresh (Grocery Online)",
+        "category": "",
+        "image": "zypfresh.png",
+        "url": "https://www.zypfresh.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Shaarif is absolutely excellent, his depth of knowledge & his guidance really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "He is a great contractor. He understood the project requirements and was able to efficiently complete the task. His code is easy to understand and he also went the additional step to comment his code. I highly recommend him and look forward to working with him again.",
+        "user": "Adam Curtis"
+      },
+      {
+        "text": "It's been an absolute pleasure to work with Shaarif! His work is super high quality, he listens carefully and provides great ideas/suggestions! Highly recommend!",
+        "user": " Bernard"
+      },
+      {
+        "text": "Shaarif delivered great work. He corrected my MERN stack problems that I knew of and also found a few more and corrected those as well. He finished the job faster than specified time and guided me on few things I should do to not have similar problems down the road. Great job!",
+        "user": "Michael"
+      }
+    ]
+  }
+}
